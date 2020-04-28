@@ -16,7 +16,7 @@ public class AWSBucket {
     public static void main(String[] args) {
 
         // Creating Bucket Name Variable.
-        String bucketName = "mkhusain-testbucket";
+        String bucketName = "Enter your bucket Name";
 
         // Creating Bucket Credientials
         String accesskey = "Enter Your S3 Access Key";
